@@ -61,6 +61,14 @@ body {
     width: 24rem;
     background-color: var(--grey-800);
     padding: var(--space-500);
+    text-align: center;
+    border-radius: 12px;
+}
+
+img {
+    width: 5.5rem;
+    margin: auto;
+    border-radius: 50%;
 }
 
 ul {
