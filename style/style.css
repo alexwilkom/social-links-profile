@@ -96,4 +96,10 @@ a {
     padding-block: var(--space-150);
     border-radius: 8px;
     font-family: var(--font-family-bold);
+    transition: 0.5s;
+}
+
+a:hover {
+    background-color: var(--green);
+    color: var(--grey-700);
 }
