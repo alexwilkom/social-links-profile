@@ -71,6 +71,17 @@ img {
     border-radius: 50%;
 }
 
+.title {
+    font-family: var(--font-family-bold);
+    font-size: var(--font-size-1);
+}
+
+.description {
+    font-family: var(--font-family-bold);
+    font-size: var(--font-size-2);
+    color: var(--green);
+}
+
 ul {
     list-style: none;
     padding: 0;
