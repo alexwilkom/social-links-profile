@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Inter Regular";
-    src: url("/assets/fonts/static/Inter-Regular.ttf");
-    font-display: fallback;
+    src: url("../assets/fonts/static/Inter-Bold.ttf");
+    font-display: swap;
 }
 
 @font-face {
     font-family: "Inter Bold";
-    src: url("/assets/fonts/static/Inter-Bold.ttf");
-    font-display: fallback;
+    src: url("../assets/fonts/static/Inter-Bold.ttf");
+    font-display: swap;
 }
 
 :root {
