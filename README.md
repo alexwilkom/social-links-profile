@@ -10,7 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- [Solution URL](https://github.com/alexwilkom/blog-preview-card)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile---normal-flow-YtMPiLAhwa)
 - [Live Site](https://alexwilkom.github.io/social-links-profile/)
 
 ## My process
