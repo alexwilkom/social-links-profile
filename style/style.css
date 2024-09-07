@@ -92,4 +92,8 @@ a {
     text-decoration: none;
     display: inline-block;
     width: 100%;
+    background-color: var(--grey-700);
+    padding-block: var(--space-150);
+    border-radius: 8px;
+    font-family: var(--font-family-bold);
 }
