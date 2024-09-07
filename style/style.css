@@ -40,4 +40,23 @@ body {
     font-family: var(--font-family-regular);
     background-color: var(--grey-900);
     color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    max-width: 24rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
 }
