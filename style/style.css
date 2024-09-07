@@ -1,11 +1,13 @@
 @font-face {
     font-family: "Inter Regular";
     src: url("/assets/fonts/static/Inter-Regular.ttf");
+    font-display: fallback;
 }
 
 @font-face {
     font-family: "Inter Bold";
     src: url("/assets/fonts/static/Inter-Bold.ttf");
+    font-display: fallback;
 }
 
 :root {
@@ -76,11 +78,15 @@ img {
 
 .title {
     font-family: var(--font-family-bold);
+    font-weight: bold;
+    /* font-weight: bold -> In case font-family falls on the fallback */
     font-size: var(--font-size-1);
 }
 
 .description {
     font-family: var(--font-family-bold);
+    font-weight: bold;
+    /* font-weight: bold -> In case font-family falls on the fallback */
     color: var(--green);
 }
 
@@ -98,6 +104,8 @@ a {
     padding-block: var(--space-150);
     border-radius: 8px;
     font-family: var(--font-family-bold);
+    font-weight: bold;
+    /* font-weight: bold -> In case font-family falls on the fallback */
     transition: 0.5s;
 }
 
