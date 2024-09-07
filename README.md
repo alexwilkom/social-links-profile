@@ -10,8 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-<!-- - [Solution URL](https://github.com/alexwilkom/blog-preview-card) -->
-
+- [Solution URL](https://github.com/alexwilkom/blog-preview-card)
 - [Live Site](https://alexwilkom.github.io/social-links-profile/)
 
 ## My process
@@ -19,7 +18,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Built with
 
 - CSS custom properties
-- Layout Normal Flow
+- Used a normal flow layout for the card
 - Media Queries
 - Self hosting fonts
 
