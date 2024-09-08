@@ -34,12 +34,12 @@
     --space-50: 4px;
 }
 
-html,
-body {
-    height: 100%;
+html {
+    height: 100svh;
 }
 
 body {
+    height: 100%;
     font-family: var(--font-family);
     font-weight: 400;
     background-color: var(--grey-900);
