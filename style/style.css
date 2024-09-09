@@ -34,12 +34,12 @@
     --space-50: 4px;
 }
 
-html {
+html,
+body {
     min-height: 100svh;
 }
 
 body {
-    min-height: 100svh;
     font-family: var(--font-family);
     font-weight: 400;
     background-color: var(--grey-900);
