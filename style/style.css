@@ -62,10 +62,9 @@ body {
 .card {
     max-width: 24rem;
     background-color: var(--grey-800);
-    padding: var(--space-500);
+    padding: min(2.5rem, 8vw);
     text-align: center;
     border-radius: 12px;
-    transition: all 0.5s;
 }
 
 img {
@@ -101,7 +100,6 @@ a {
     border-radius: 8px;
     font-family: var(--font-family);
     font-weight: 800;
-    transition: 0.5s;
 }
 
 a:hover {
